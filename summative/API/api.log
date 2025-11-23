@@ -1,0 +1,255 @@
+2025-11-21 12:52:21,800 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 12:52:21,800 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 12:52:21,808 - INFO - load_model:80 - Model file status:
+2025-11-21 12:52:21,808 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 12:52:21,808 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 12:52:21,808 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 12:52:21,808 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 12:52:22,456 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 12:52:22,456 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 12:52:22,461 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 12:52:22,461 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 12:52:22,461 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 12:52:22,461 - INFO - load_model:187 - 
+==================================================
+2025-11-21 12:52:22,461 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 12:52:22,463 - INFO - load_model:189 - ==================================================
+2025-11-21 12:52:22,463 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 12:52:22,463 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 12:52:22,463 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 12:52:22,463 - INFO - load_model:200 - ==================================================
+2025-11-21 12:52:22,881 - INFO - <module>:570 - \U0001f680 Starting API server on http://0.0.0.0:8000
+2025-11-21 13:21:49,210 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 13:21:49,213 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 13:21:49,213 - INFO - load_model:80 - Model file status:
+2025-11-21 13:21:49,213 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 13:21:49,213 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 13:21:49,213 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 13:21:49,218 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 13:22:15,961 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 13:22:15,961 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 13:22:15,979 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 13:22:15,981 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 13:22:15,981 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 13:22:15,981 - INFO - load_model:187 - 
+==================================================
+2025-11-21 13:22:15,981 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 13:22:15,981 - INFO - load_model:189 - ==================================================
+2025-11-21 13:22:15,983 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 13:22:15,983 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 13:22:15,984 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 13:22:15,984 - INFO - load_model:200 - ==================================================
+2025-11-21 13:22:55,522 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 13:22:55,522 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 13:22:55,522 - INFO - load_model:80 - Model file status:
+2025-11-21 13:22:55,522 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 13:22:55,525 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 13:22:55,525 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 13:22:55,526 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 13:22:56,214 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 13:22:56,214 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 13:22:56,217 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 13:22:56,217 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 13:22:56,217 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 13:22:56,217 - INFO - load_model:187 - 
+==================================================
+2025-11-21 13:22:56,217 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 13:22:56,217 - INFO - load_model:189 - ==================================================
+2025-11-21 13:22:56,217 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 13:22:56,217 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 13:22:56,217 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 13:22:56,221 - INFO - load_model:200 - ==================================================
+2025-11-21 13:23:31,404 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 13:23:31,404 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 13:23:31,404 - INFO - load_model:80 - Model file status:
+2025-11-21 13:23:31,404 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 13:23:31,404 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 13:23:31,404 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 13:23:31,404 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 13:23:32,266 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 13:23:32,266 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 13:23:32,266 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 13:23:32,266 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 13:23:32,266 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 13:23:32,266 - INFO - load_model:187 - 
+==================================================
+2025-11-21 13:23:32,266 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 13:23:32,266 - INFO - load_model:189 - ==================================================
+2025-11-21 13:23:32,266 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 13:23:32,266 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 13:23:32,266 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 13:23:32,266 - INFO - load_model:200 - ==================================================
+2025-11-21 13:23:54,774 - INFO - health_check:340 - Health check endpoint accessed
+2025-11-21 13:24:07,766 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Test User
+2025-11-21 13:24:07,766 - INFO - predict_salary:381 -    Input: Education=EducationLevel.BACHELOR, Experience=5.0, Location=Location.URBAN, Job=JobTitle.MANAGER, Age=30, Gender=Gender.MALE
+2025-11-21 13:24:07,766 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 13:24:07,766 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 13:24:07,766 - INFO - predict_salary:396 -    Encoded features: [ 1.  5.  2.  4. 30.  1.]
+2025-11-21 13:24:07,766 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 13:24:07,768 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 13:24:07,768 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 13:24:07,768 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 13:24:07,768 - ERROR - predict_salary:426 - \u274c PREDICTION ERROR: 'DecisionTreeRegressor' object has no attribute 'monotonic_cst'
+2025-11-21 13:25:39,632 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 13:25:39,632 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 13:25:39,632 - INFO - load_model:80 - Model file status:
+2025-11-21 13:25:39,632 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 13:25:39,632 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 13:25:39,632 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 13:25:39,632 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 13:25:47,585 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 13:25:47,585 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 13:25:47,589 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 13:25:47,590 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 13:25:47,590 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 13:25:47,590 - INFO - load_model:187 - 
+==================================================
+2025-11-21 13:25:47,590 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 13:25:47,590 - INFO - load_model:189 - ==================================================
+2025-11-21 13:25:47,590 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 13:25:47,590 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 13:25:47,590 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 13:25:47,590 - INFO - load_model:200 - ==================================================
+2025-11-21 13:25:53,661 - INFO - health_check:340 - Health check endpoint accessed
+2025-11-21 13:26:09,963 - INFO - health_check:340 - Health check endpoint accessed
+2025-11-21 13:26:22,760 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Test User
+2025-11-21 13:26:22,760 - INFO - predict_salary:381 -    Input: Education=EducationLevel.BACHELOR, Experience=5.0, Location=Location.URBAN, Job=JobTitle.MANAGER, Age=30, Gender=Gender.MALE
+2025-11-21 13:26:22,760 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 13:26:22,760 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 13:26:22,760 - INFO - predict_salary:396 -    Encoded features: [ 1.  5.  2.  4. 30.  1.]
+2025-11-21 13:26:22,760 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 13:26:22,766 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 13:26:22,766 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 13:26:22,766 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 13:26:22,768 - INFO - predict_salary:423 -    Prediction successful: $96,276.35
+2025-11-21 13:26:22,768 - INFO - predict_salary:445 - \u2705 Prediction completed: Test User -> $96,276.35 (confidence: 0.883)
+2025-11-21 13:34:11,447 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-21 13:34:11,447 - INFO - load_model:64 - Starting model loading process...
+2025-11-21 13:34:11,447 - INFO - load_model:80 - Model file status:
+2025-11-21 13:34:11,447 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-21 13:34:11,447 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-21 13:34:11,447 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-21 13:34:11,458 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-21 13:34:12,230 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-21 13:34:12,230 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-21 13:34:12,231 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-21 13:34:12,231 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-21 13:34:12,231 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-21 13:34:12,231 - INFO - load_model:187 - 
+==================================================
+2025-11-21 13:34:12,231 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-21 13:34:12,231 - INFO - load_model:189 - ==================================================
+2025-11-21 13:34:12,231 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-21 13:34:12,231 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-21 13:34:12,231 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-21 13:34:12,231 - INFO - load_model:200 - ==================================================
+2025-11-21 13:34:12,293 - INFO - <module>:570 - \U0001f680 Starting API server on http://0.0.0.0:8000
+2025-11-21 13:36:52,292 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Jado
+2025-11-21 13:36:52,293 - INFO - predict_salary:381 -    Input: Education=EducationLevel.PHD, Experience=15.0, Location=Location.URBAN, Job=JobTitle.MANAGER, Age=43, Gender=Gender.MALE
+2025-11-21 13:36:52,294 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 13:36:52,294 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 13:36:52,296 - INFO - predict_salary:396 -    Encoded features: [ 3. 15.  2.  4. 43.  1.]
+2025-11-21 13:36:52,296 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 13:36:52,298 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 13:36:52,298 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 13:36:52,298 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 13:36:52,305 - INFO - predict_salary:423 -    Prediction successful: $142,879.32
+2025-11-21 13:36:52,306 - INFO - predict_salary:445 - \u2705 Prediction completed: Jado -> $142,879.32 (confidence: 0.842)
+2025-11-21 13:38:21,042 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: MAHE
+2025-11-21 13:38:21,043 - INFO - predict_salary:381 -    Input: Education=EducationLevel.HIGH_SCHOOL, Experience=2.5, Location=Location.RURAL, Job=JobTitle.DEVELOPER, Age=22, Gender=Gender.MALE
+2025-11-21 13:38:21,044 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 13:38:21,047 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 13:38:21,048 - INFO - predict_salary:396 -    Encoded features: [ 0.   2.5  0.   3.  22.   1. ]
+2025-11-21 13:38:21,048 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 13:38:21,049 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 13:38:21,049 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 13:38:21,050 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 13:38:21,058 - INFO - predict_salary:423 -    Prediction successful: $56,153.94
+2025-11-21 13:38:21,059 - INFO - predict_salary:445 - \u2705 Prediction completed: MAHE -> $56,153.94 (confidence: 0.851)
+2025-11-21 13:43:02,559 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: DIEEE
+2025-11-21 13:43:02,560 - INFO - predict_salary:381 -    Input: Education=EducationLevel.HIGH_SCHOOL, Experience=6.0, Location=Location.SUBURBAN, Job=JobTitle.DEVELOPER, Age=22, Gender=Gender.MALE
+2025-11-21 13:43:02,560 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 13:43:02,561 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 13:43:02,562 - INFO - predict_salary:396 -    Encoded features: [ 0.  6.  1.  3. 22.  1.]
+2025-11-21 13:43:02,562 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 13:43:02,566 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 13:43:02,567 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 13:43:02,567 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 13:43:02,577 - INFO - predict_salary:423 -    Prediction successful: $64,959.10
+2025-11-21 13:43:02,579 - INFO - predict_salary:445 - \u2705 Prediction completed: DIEEE -> $64,959.10 (confidence: 0.837)
+2025-11-21 15:19:16,739 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: ADF
+2025-11-21 15:19:16,767 - INFO - predict_salary:381 -    Input: Education=EducationLevel.HIGH_SCHOOL, Experience=1.0, Location=Location.URBAN, Job=JobTitle.MANAGER, Age=18, Gender=Gender.MALE
+2025-11-21 15:19:16,769 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-21 15:19:16,819 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-21 15:19:16,823 - INFO - predict_salary:396 -    Encoded features: [ 0.  1.  2.  4. 18.  1.]
+2025-11-21 15:19:16,824 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-21 15:19:16,847 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-21 15:19:16,848 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-21 15:19:16,850 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-21 15:19:16,961 - INFO - predict_salary:423 -    Prediction successful: $62,768.83
+2025-11-21 15:19:16,983 - INFO - predict_salary:445 - \u2705 Prediction completed: ADF -> $62,768.83 (confidence: 0.878)
+2025-11-23 18:06:32,586 - INFO - <module>:209 - \U0001f680 Starting API server...
+2025-11-23 18:06:32,601 - INFO - load_model:64 - Starting model loading process...
+2025-11-23 18:06:32,605 - INFO - load_model:80 - Model file status:
+2025-11-23 18:06:32,605 - INFO - load_model:81 -   Primary model (model/model.pkl): \u2705 EXISTS
+2025-11-23 18:06:32,605 - INFO - load_model:82 -   Primary scaler (model/scaler.pkl): \u2705 EXISTS
+2025-11-23 18:06:32,612 - INFO - load_model:83 -   Metadata (model/metadata.json): \u2705 EXISTS
+2025-11-23 18:06:32,638 - INFO - load_model:90 - Metadata loaded: {'best_model': 'Random Forest', 'test_r2': 0.8441106894188826, 'test_mse': 127287761.80626884, 'features': ['Education_encoded', 'Experience', 'Location_encoded', 'Job_Title_encoded', 'Age', 'Gender_encoded'], 'n_features': 6, 'training_samples': 800, 'test_samples': 200}
+2025-11-23 18:06:53,795 - INFO - load_model:99 - \u2705 Model loaded successfully from model/model.pkl
+2025-11-23 18:06:53,795 - INFO - load_model:100 -    Model type: RandomForestRegressor
+2025-11-23 18:06:53,836 - INFO - load_model:130 - \u2705 Scaler loaded successfully from model/scaler.pkl
+2025-11-23 18:06:53,836 - INFO - load_model:135 -    Scaler expects 6 features
+2025-11-23 18:06:53,836 - INFO - load_model:141 - \u2705 Scaler feature count matches expected (6 features)
+2025-11-23 18:06:53,836 - INFO - load_model:187 - 
+==================================================
+2025-11-23 18:06:53,838 - INFO - load_model:188 - MODEL LOADING SUMMARY
+2025-11-23 18:06:53,838 - INFO - load_model:189 - ==================================================
+2025-11-23 18:06:53,838 - INFO - load_model:190 - Model loaded: \u2705 YES
+2025-11-23 18:06:53,838 - INFO - load_model:191 - Scaler loaded: \u2705 YES
+2025-11-23 18:06:53,838 - INFO - load_model:194 - \U0001f389 ALL COMPONENTS LOADED SUCCESSFULLY!
+2025-11-23 18:06:53,838 - INFO - load_model:200 - ==================================================
+2025-11-23 18:06:54,495 - INFO - <module>:570 - \U0001f680 Starting API server on http://0.0.0.0:8000
+2025-11-23 18:09:36,150 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Mahe Digne
+2025-11-23 18:09:36,153 - INFO - predict_salary:381 -    Input: Education=EducationLevel.BACHELOR, Experience=5.5, Location=Location.URBAN, Job=JobTitle.DEVELOPER, Age=23, Gender=Gender.MALE
+2025-11-23 18:09:36,154 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-23 18:09:36,156 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-23 18:09:36,159 - INFO - predict_salary:396 -    Encoded features: [ 1.   5.5  2.   3.  23.   1. ]
+2025-11-23 18:09:36,163 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-23 18:09:36,239 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-23 18:09:36,241 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-23 18:09:36,244 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-23 18:09:36,281 - INFO - predict_salary:423 -    Prediction successful: $88,124.40
+2025-11-23 18:09:36,288 - INFO - predict_salary:445 - \u2705 Prediction completed: Mahe Digne -> $88,124.40 (confidence: 0.819)
+2025-11-23 18:09:46,836 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Mahe Digne
+2025-11-23 18:09:46,840 - INFO - predict_salary:381 -    Input: Education=EducationLevel.BACHELOR, Experience=5.5, Location=Location.URBAN, Job=JobTitle.DEVELOPER, Age=23, Gender=Gender.MALE
+2025-11-23 18:09:46,842 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-23 18:09:46,844 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-23 18:09:46,850 - INFO - predict_salary:396 -    Encoded features: [ 1.   5.5  2.   3.  23.   1. ]
+2025-11-23 18:09:46,853 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-23 18:09:46,859 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-23 18:09:46,861 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-23 18:09:46,864 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-23 18:09:46,892 - INFO - predict_salary:423 -    Prediction successful: $88,124.40
+2025-11-23 18:09:46,898 - INFO - predict_salary:445 - \u2705 Prediction completed: Mahe Digne -> $88,124.40 (confidence: 0.833)
+2025-11-23 18:13:36,522 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: Mahe Digne
+2025-11-23 18:13:36,525 - INFO - predict_salary:381 -    Input: Education=EducationLevel.BACHELOR, Experience=5.5, Location=Location.URBAN, Job=JobTitle.DEVELOPER, Age=23, Gender=Gender.MALE
+2025-11-23 18:13:36,528 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-23 18:13:36,532 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-23 18:13:36,536 - INFO - predict_salary:396 -    Encoded features: [ 1.   5.5  2.   3.  23.   1. ]
+2025-11-23 18:13:36,538 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-23 18:13:36,543 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-23 18:13:36,546 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-23 18:13:36,549 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-23 18:13:36,582 - INFO - predict_salary:423 -    Prediction successful: $88,124.40
+2025-11-23 18:13:36,586 - INFO - predict_salary:445 - \u2705 Prediction completed: Mahe Digne -> $88,124.40 (confidence: 0.872)
+2025-11-23 18:28:53,617 - INFO - predict_salary:380 - \U0001f50d Prediction request received for: MAHE Digne
+2025-11-23 18:28:53,622 - INFO - predict_salary:381 -    Input: Education=EducationLevel.HIGH_SCHOOL, Experience=3.5, Location=Location.RURAL, Job=JobTitle.DEVELOPER, Age=23, Gender=Gender.MALE
+2025-11-23 18:28:53,625 - INFO - predict_salary:391 - \U0001f916 Using actual model for prediction
+2025-11-23 18:28:53,628 - INFO - predict_salary:395 -    Encoded features shape: (1, 6)
+2025-11-23 18:28:53,633 - INFO - predict_salary:396 -    Encoded features: [ 0.   3.5  0.   3.  23.   1. ]
+2025-11-23 18:28:53,636 - INFO - predict_salary:400 - \U0001f504 Scaling features...
+2025-11-23 18:28:53,642 - INFO - predict_salary:403 -    Scaled features shape: (1, 6)
+2025-11-23 18:28:53,644 - INFO - predict_salary:404 -    Scaling successful \u2705
+2025-11-23 18:28:53,648 - INFO - predict_salary:419 - \U0001f3af Making prediction...
+2025-11-23 18:28:53,684 - INFO - predict_salary:423 -    Prediction successful: $56,946.33
+2025-11-23 18:28:53,686 - INFO - predict_salary:445 - \u2705 Prediction completed: MAHE Digne -> $56,946.33 (confidence: 0.868)

@@ -1,0 +1,16 @@
+{
+  "best_model": "Random Forest",
+  "test_r2": 0.8441106894188826,
+  "test_mse": 127287761.80626884,
+  "features": [
+    "Education_encoded",
+    "Experience",
+    "Location_encoded",
+    "Job_Title_encoded",
+    "Age",
+    "Gender_encoded"
+  ],
+  "n_features": 6,
+  "training_samples": 800,
+  "test_samples": 200
+}
